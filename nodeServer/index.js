@@ -1,5 +1,5 @@
 const io= require('socket.io')(8000)
-io.set('origins', 'https://parth-devloper.github.io/friendzone.github.io/');
+
 
 const users = {};
 
